@@ -1,0 +1,5 @@
+11.08.2023 14:47:53 INFO  techproed.day23_Log4j.C01_Log4j INFO
+11.08.2023 14:47:53 DEBUG techproed.day23_Log4j.C01_Log4j DEBUG
+11.08.2023 14:47:53 ERROR techproed.day23_Log4j.C01_Log4j ERROR
+11.08.2023 14:47:53 FATAL techproed.day23_Log4j.C01_Log4j FATAL
+11.08.2023 14:47:53 WARN  techproed.day23_Log4j.C01_Log4j WARNING
